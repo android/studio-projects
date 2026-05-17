@@ -1,6 +1,6 @@
 # Hello Android
 
-Hello Android is a empty Android app starter app built
+Hello Android is an empty Android app starter app built
 with [Jetpack Compose](https://developer.android.com/jetpack/compose).
 The goal of the sample is to demonstrate a simple Hello World Android app.
 
