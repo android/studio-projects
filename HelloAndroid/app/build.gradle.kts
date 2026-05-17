@@ -21,11 +21,7 @@ plugins {
 kotlin {
     android {
         namespace = "com.example.android.helloandroid"
-        compileSdk {
-            version = release(36) {
-                minorApiLevel = 1
-            }
-        }
+        compileSdk = 36
 
         defaultConfig {
             applicationId = "com.example.android.helloandroid"
