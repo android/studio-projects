@@ -91,7 +91,7 @@ fun HelloAndroidApp(name: String, modifier: Modifier = Modifier) {
 }
 
 
-@Preview(showBackground = true, showSystemUi = false)
+@Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun HelloAndroidPreview() {
     HelloAndroidApp("Android")
